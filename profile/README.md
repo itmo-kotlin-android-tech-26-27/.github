@@ -2,12 +2,12 @@
 
 ## Information
 
-- [Syllabus](https://github.com/itmo-kotlin-android-tech-26-27/.github-private/blob/main/profile/syllabus.md)
-- [Do/Don'ts](https://github.com/itmo-kotlin-android-tech-26-27/.github-private/blob/main/profile/do-donts.md)
+- [Syllabus](https://github.com/itmo-kotlin-android-tech-26-27/.github/blob/main/profile/syllabus.md)
+- [Do/Don'ts](https://github.com/itmo-kotlin-android-tech-26-27/.github/blob/main/profile/do-donts.md)
 
-## [Лекции](https://github.com/itmo-kotlin-android-tech-26-27/.github-private/tree/main/profile/lections)
+## [Лекции](https://github.com/itmo-kotlin-android-tech-26-27/.github/tree/main/profile/lections)
 
-## [Лабораторные](https://github.com/itmo-kotlin-android-tech-26-27/.github-private/tree/main/profile/practice)
+## [Лабораторные](https://github.com/itmo-kotlin-android-tech-26-27/.github/tree/main/profile/practice)
 
 ## Ссылки
 
